@@ -1,5 +1,12 @@
 # Controle de Veículos UENP
 
+## Tela de Menu - Captura de Tela
+
+![Tela de Menu](https://github.com/J0aoD3v/veiculosUENP/assets/101115833/39a40250-91ca-423d-991f-5858167c30c2)
+
+Esta captura de tela representa a tela de menu principal do sistema de Controle de Veículos UENP. Aqui, os usuários podem navegar facilmente pelas diversas funcionalidades oferecidas pelo programa, incluindo o cadastro de veículos, motoristas e operadores do sistema, além de realizar registros de retirada e devolução de veículos. A interface intuitiva e organizada proporciona uma experiência de usuário eficiente e amigável.
+
+
 ## Descrição do Projeto
 
 O projeto de Controle de Veículos UENP é um sistema orientado a objetos desenvolvido em JavaFX. Ele permite o gerenciamento dos veículos utilizados no campus Bandeirantes da UENP, registrando informações sobre motoristas, operadores do sistema, retirada e devolução de veículos, além de possibilitar consultas sobre o uso dos veículos em determinadas datas.
